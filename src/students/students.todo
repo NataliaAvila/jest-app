@@ -1,0 +1,7 @@
+# Regras de negocio para estudantes
+
+Regras:
+☐ Deve retornar quando as notas forem 5, 3 e 2
+☐ Deve retornar zero quando uma das notas for zero
+☐ Deve dobrar a nota quando o aluno tiver mais de cinco notas
+☐ Deve dobrar a nota quando for maior que 9
